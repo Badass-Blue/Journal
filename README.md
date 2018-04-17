@@ -3,6 +3,10 @@ Electronic Journal
 
 Author: Zacharia Henderson
 
+WINDOWS USERS
+If you are missing the MSVP140.dll, please install Microsoft's 2015 C++ redistributable from this link:
+https://www.microsoft.com/en-us/download/details.aspx?id=48145
+
 Quick Note:
 
 Throughout the code there is some redundancy and over complexity, which might be fixed, but it
